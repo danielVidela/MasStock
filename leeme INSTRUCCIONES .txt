@@ -1,0 +1,3 @@
+Para ejecutar la demo debes abrir con google chrome el archivo llamado:
+index.html
+Muchas gracias !!! 
